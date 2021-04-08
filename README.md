@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm quele</h1>
 <h3 align="center">A passionate frontend & backend developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quele-official" alt="quele-official" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/quele_official" target="blank"><img src="https://img.shields.io/twitter/follow/quele_official?logo=twitter&style=for-the-badge" alt="quele_official" /></a> </p>
 
 - 🔭 I’m currently working on [HypeTime, QandQCoding](https://hypetime.eu https://quele.live)
@@ -26,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quele-official&show_icons=true&locale=en&layout=compact" alt="quele-official" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quele-official&show_icons=true&locale=en" alt="quele-official" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quele-official&show_icons=true&theme=dark&locale=en" alt="quele-official" /></p>
