@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm quele</h1>
 <h3 align="center">A passionate frontend & backend developer from Germany</h3>
 
-<p align="left"> <a href="https://twitter.com/quele_official" target="blank"><img src="https://img.shields.io/twitter/follow/quele_official?logo=twitter&style=for-the-badge" alt="quele_official" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [HypeTime, QandQCoding](https://hypetime.eu https://quele.live)
 
@@ -13,10 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/quele_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="quele_official" height="30" width="40" /></a>
 <a href="https://instagram.com/quele_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="quele_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/quele" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="quele" height="30" width="40" /></a>
-<a href="https://discord.gg/quele#0001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="quele#0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
