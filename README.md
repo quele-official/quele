@@ -11,10 +11,7 @@
 
 - ⚡ Fun fact **when you write fun fact on the beginning of a sentence all peoples will read the full sentence carefully**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/quele_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="quele_official" height="30" width="40" /></a>
-</p>
+
 
 ![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f525f5557307051326e36634952773d3d2d3638372e31346564626166353732666639396438323132393730373436343](https://user-images.githubusercontent.com/76977433/114267846-662e8600-99fe-11eb-9c81-232963a59b09.gif)
 
