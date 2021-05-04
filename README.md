@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Kotlin**
 
-- 📫 How to reach me **quele#0001**
+- 📫 How to reach me **quele#0001** (discord)
 
 - ⚡ Fun fact **when you write fun fact on the beginning of a sentence all peoples will read the full sentence carefully**
 
