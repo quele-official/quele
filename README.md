@@ -12,8 +12,5 @@
 - ⚡ Fun fact **when you write fun fact on the beginning of a sentence all peoples will read the full sentence carefully**
 
 
+![FarFormalBison-size_restricted](https://user-images.githubusercontent.com/76977433/122923510-14429e80-d365-11eb-9578-705fc7ae49cd.gif)
 
-![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f525f5557307051326e36634952773d3d2d3638372e31346564626166353732666639396438323132393730373436343](https://user-images.githubusercontent.com/76977433/114267846-662e8600-99fe-11eb-9c81-232963a59b09.gif)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quele-official&show_icons=true&theme=dark&locale=en" alt="quele-official" /></p>
