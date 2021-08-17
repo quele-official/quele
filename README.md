@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [HypeTime, QandQCoding](https://hypetime.eu https://quele.live)
 
-- 🌱 I’m currently learning **JavaScript, Kotlin**
-
 - 📫 How to reach me **quele#7047** (discord)
 
 - ⚡ Fun fact **when you write fun fact on the beginning of a sentence all peoples will read the full sentence carefully**
