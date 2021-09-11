@@ -8,6 +8,6 @@
 - 📫 How to reach me **quele#7047** (discord)
 
 - ⚡ Fun fact **when you write fun fact on the beginning of a sentence all peoples will read the full sentence carefully**
-![Banner (31)](https://user-images.githubusercontent.com/76977433/132946176-818e6938-7eab-4234-a8c6-4ca1143410b1.png)
+![Unbenannt1](https://user-images.githubusercontent.com/76977433/132946201-9dd69684-2092-4cc0-9778-764f697d0e21.PNG)
 
 
