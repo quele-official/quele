@@ -10,5 +10,3 @@
 - ⚡ Fun fact **when you write fun fact on the beginning of a sentence all peoples will read the full sentence carefully**
 
 
-![FarFormalBison-size_restricted](https://user-images.githubusercontent.com/76977433/122923510-14429e80-d365-11eb-9578-705fc7ae49cd.gif)
-
